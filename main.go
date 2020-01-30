@@ -63,3 +63,7 @@ func Find0(slice []int, predicate func(int) bool) int {
 	}
 	return -1
 }
+
+func main() {
+
+}
